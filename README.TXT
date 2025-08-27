@@ -8,7 +8,7 @@ This project is part of the material for the book
    David J. Barnes and Michael Kölling
    Pearson Education
 
-It is discussed in chapter 1.
+HELLO
 
 This is a very simple project to demonstrate some characteristics of
 objects.
